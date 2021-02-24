@@ -7,6 +7,6 @@ Before running the code, ensure paths direct to the images above.
 
 Various Keras Models were trained on images of skin lesions from the above dataset. 
 
-The goal of the model building process was to detect the presence of melanoma from these images of skin lesions. 
+The goal of the model building process was to detect the presence of melanoma from these images of skin lesions. The model detected melanoma with a precision of 0.52, recall of 0.79 and f-score of 0.62
 
 The best results / neural network configuration can be found in the notebook "Best Results.ipynb".
