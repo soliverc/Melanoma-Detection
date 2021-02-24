@@ -11,4 +11,6 @@ The goal of the model building process was to detect the presence of melanoma fr
 
 The best results / neural network configuration can be found in the notebook "Best Results.ipynb".
 
+To view the final results - check the Results and Charts.png file. 
+
 "Auto Cropping Lesions.ipynb" is a separate task where I attempt to crop and centre the images of skin lesions.
