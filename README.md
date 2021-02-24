@@ -1,7 +1,7 @@
 # Melanoma-Detection
 Melanoma Detection via Convolutional Neural Network trained on the HAM10000 Dataset 
 
-Access the Dataset Here: https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
+Access the Dataset Here: https://drive.google.com/file/d/1h91HNUN5UBE6CexoxI_eXIb-KSDZk85m/view
 
 Before running the code, ensure paths direct to the images above.
 
